@@ -1981,7 +1981,7 @@
                   "desc": "[OnSucceedAttack] 振動爆発"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 沈潜 を5付与\n[OnSucceedAttack] 沈潜 回数を5付与"
+                  "desc": "[OnSucceedAttack] 沈潜 を5付与\n[OnSucceedAttack] 沈潜 回数が5増加"
                 }
               ]
             }
@@ -2040,7 +2040,7 @@
                   "desc": "[OnSucceedAttack] 振動爆発"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 沈潜 を10付与\n[OnSucceedAttack] 沈潜 回数を8付与"
+                  "desc": "[OnSucceedAttack] 沈潜 を10付与\n[OnSucceedAttack] 沈潜 回数が8増加"
                 }
               ]
             }
@@ -2178,7 +2178,7 @@
           "level": 1,
           "name": "迫り来る日",
           "abName": "終末カレンダー",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象の体力が25%以上のとき、ダメージ量+15%",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象の体力が25%未満のとき、ダメージ量+15%",
           "coinlist": [
             {
               "coindescs": [
@@ -2193,7 +2193,7 @@
           "level": 3,
           "name": "迫り来る日",
           "abName": "終末カレンダー",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象の体力が25%以上のとき、ダメージ量+25%",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象の体力が25%未満のとき、ダメージ量+25%",
           "coinlist": [
             {
               "coindescs": [
@@ -2211,7 +2211,7 @@
           "level": 4,
           "name": "迫り来る日",
           "abName": "終末カレンダー",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象の体力が25%以上のとき、ダメージ量 +50%",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象の体力が25%未満のとき、ダメージ量 +50%",
           "coinlist": [
             {
               "coindescs": [
@@ -3847,7 +3847,7 @@
           ]
         },
         {
-          "level": 2,
+          "level": 4,
           "name": "AEDD",
           "abName": "衝擊ムカデ",
           "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の失った体力10%につき、充電 回数を1増加(最大7)\n次のターンにクイック 2を得る",
@@ -3905,7 +3905,7 @@
           "level": 1,
           "name": "狐雨",
           "abName": "さすらいの狐",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] このターンと次のターンの2ターン間、怠惰威力増加 1, 怠惰ダメージ量増加 1を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] このターンと次の2ターンの間、怠惰威力増加 1, 怠惰ダメージ量増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -3920,7 +3920,7 @@
           "level": 3,
           "name": "狐雨",
           "abName": "さすらいの狐",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] このターンと次のターンの2ターン間、怠惰威力増加 2, 怠惰ダメージ量増加 2を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] このターンと次の2ターンの間、怠惰威力増加 2, 怠惰ダメージ量増加 2を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -4265,7 +4265,7 @@
           "level": 4,
           "name": "空即是色",
           "abName": "我、空に至れり",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の精神力が-15以下なら、攻撃加重値 +1",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の精神力が-15以下なら、攻撃加重値 +2",
           "coinlist": [
             {
               "coindescs": [

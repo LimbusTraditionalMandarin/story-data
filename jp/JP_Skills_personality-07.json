@@ -109,7 +109,7 @@
         {
           "level": 3,
           "name": "結び目を絶つ",
-          "desc": "嫉妬共鳴が3以上ならマッチ威力+1\n嫉妬完全共鳴が4以上ならコイン威力+1",
+          "desc": "嫉妬共鳴が3以上ならマッチ威力+1\n嫉妬共鳴が4以上ならコイン威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1747,7 +1747,7 @@
         {
           "level": 1,
           "name": "ブースト・エルボーカッター",
-          "desc": "[StartBattle] [ChargeForceField]を(2 + 自分の[Charge]威力)だけ得る (最大6, 1ターンにつ1回)\n[WhenUse] 自分の[Charge]回数を6消耗し、コイン威力 +1",
+          "desc": "[StartBattle] [ChargeForceField]を(2 + 自分の[Charge]威力)だけ得る (最大6, 1ターンにつき1回)\n[WhenUse] 自分の[Charge]回数を6消耗し、コイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1768,7 +1768,7 @@
         {
           "level": 2,
           "name": "ブースト・エルボーカッター",
-          "desc": "[StartBattle] [ChargeForceField]を(2 + 自分の[Charge]威力)だけ得る (最大6, 1ターンにつ1回)\n[WhenUse] 自分の[Charge]回数を6消耗し、コイン威力 +1<style=\"highlight\"></style>",
+          "desc": "[StartBattle] [ChargeForceField]を(2 + 自分の[Charge]威力)だけ得る (最大6, 1ターンにつき1回)\n[WhenUse] 自分の[Charge]回数を6消耗し、コイン威力 +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
